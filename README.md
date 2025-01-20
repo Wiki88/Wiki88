@@ -1,4 +1,5 @@
 
 
-![Static Badge](https://img.shields.io/badge/py-pyhton-blue?style=plastic&logo=python)
+![Static Badge](https://img.shields.io/badge/py-pyhton-%20gray?style=plastic&logo=python)
+
 
